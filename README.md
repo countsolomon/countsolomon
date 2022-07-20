@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @countsolomon
-- 👀 I’m interested in Linux, technology, networking, and programming. 
+- 👀 I’m interested in Linux, programming, self hosted projects, and horror video games. 
 - 🌱 I’m currently learning python, and linux. 
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me by email at chris93solomon11@gmail.com
