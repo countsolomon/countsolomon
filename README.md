@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @countsolomon
+- Currently studying python, terraform, and vagrant. 
 - 👀 I’m interested in Linux, programming, self hosted projects, and horror video games. 
 - 🌱 I’m currently learning python, and linux. 
 - 💞️ I’m looking to collaborate on open source projects.
