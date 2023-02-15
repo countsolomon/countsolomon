@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @countsolomon
-- Currently studying python, terraform, and vagrant. 
-- 👀 I’m interested in Linux, programming, self hosted projects, and horror video games. 
-- 🌱 I’m currently learning python, and linux. 
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me by email at chris93solomon11@gmail.com
+- 👋 Hi, I’m @countsolomon or Christopher Solomon. My hobbies include reading, music, movies, and computers. 
+- Currently studying python, terraform, microsoft azure, and kubernetes. 
+- 👀 I’m interested in being apart of a collaborative team, with the passion for their work. 
+- 🌱 My strengths are in positive ideas, infrastructure/networking, automation, storage, and Linux
+- 💞️ I’m looking to collaborate on open source project. 
+- 📫 You can reach me at countsolomon@outlook.com, or countsolomon@duck.com
 
 <!---
 countsolomon/countsolomon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
