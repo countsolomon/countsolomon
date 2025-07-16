@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @countsolomon or Christopher Solomon. 
+- 👋 Hi, I am Christopher.
 - Currently studying python, terraform, microsoft azure, and kubernetes. 
 - 👀 I’m interested in being apart of a collaborative team, with the passion for their work. 
 - 🌱 My strengths are in positive ideas, infrastructure/networking, automation, storage, and Linux
